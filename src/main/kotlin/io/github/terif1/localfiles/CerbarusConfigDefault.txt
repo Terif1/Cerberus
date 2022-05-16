@@ -1,0 +1,8 @@
+//Cerbarus Config Options
+//ALL OPTIONS MUST BE IN THIS FORMAT PER LINE: "&<Name>: <value>" AND NOTHING ELSE ON THAT LINE. INCLUDE SPACES AND ALL CHARS
+//IF YOU DON'T FOLLOW THIS FORMAT THE OPTION WILL FAIL AND IF CAN CAUSE ERRORS IF I HAVEN'T ACTUALLY BUILT A DEFAULT
+//NO REALLY YOU NEED TO DO THAT FORMAT. AND YOU DON'T NEED THE <>, THOSE INDICATE THAT THAT IS A VALUE YOU MUST INPUT
+//
+//
+//
+&maintenceMessage: Sorry, but that server is under maintenance, please contact the admins if you believe this is in error, otherwise check back
